@@ -1,16 +1,16 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
-Python 100 Days Bootcamp | London App Brewery
+<h2>Python 100 Days Bootcamp | London App Brewery</h2>
 
 Author: Yura Buzinau
 
-Course Description:
+<h3>Course Description:</h3>
 
 The Complete Python Bootcamp From Zero to Hero in Python.
 
 Learn Python like a Professional Start from the basics and go all the way 
 to creating your own applications and games
 
-What you'll learn:
+<h3>What you'll learn:</h4>
 
 You will learn how to leverage the power of Python to solve tasks.
 You will build games and programs that use Python libraries.
