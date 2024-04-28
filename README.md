@@ -10,7 +10,7 @@ The Complete Python Bootcamp From Zero to Hero in Python.
 Learn Python like a Professional Start from the basics and go all the way 
 to creating your own applications and games
 
-<h3>What you'll learn:</h4>
+<h3>What you'll learn:</h3>
 
 You will learn how to leverage the power of Python to solve tasks.
 You will build games and programs that use Python libraries.
